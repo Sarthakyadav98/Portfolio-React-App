@@ -21,7 +21,7 @@ function Section() {
         <div className="section__pic-container">
           <img
             src="/assets/pic.jpg"
-            alt="Sarthak's profile picture"
+            alt="Sarthak's profile pic"
             id="pic_001"
           />
         </div>
