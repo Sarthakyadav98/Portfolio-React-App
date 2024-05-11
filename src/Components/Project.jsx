@@ -11,9 +11,9 @@ function Project(){
     <h1 class="title">Projects</h1>
     <div class="experience-details-container">
       <div class="about-containers">
-        <Container src ="https://pics.craiyon.com/2023-07-26/12f1ebb62505481fa27ceb801ec791e1.webp" h2="Mini Games" alt="Project 1" githubLink ="https://github.com/Sarthakyadav98/mini-games" liveDemoLink ="https://mini-games-sarthak.netlify.app/"/>
+        <Container src="./assets/restaurant_logo.jpg" alt="Project 1" h2="The LocalCraft-Food" githubLink="https://github.com/Sarthakyadav98/restaurant_app__001" liveDemoLink="https://thelocalcraft-food.netlify.app/" imgHeight="300px" />
         <Container src ="./assets/qr.png" alt="Project 2"h2="QR Code Generator" githubLink="https://github.com/Sarthakyadav98/qr-code-generator" imgHeight="300px"/>
-        <Container src="./assets/project-3.png" alt="Project 3" h2="Project Three" githubLink="https://github.com/Sarthakyadav98/" />
+        <Container src ="https://pics.craiyon.com/2023-07-26/12f1ebb62505481fa27ceb801ec791e1.webp" h2="Mini Games" alt="Project 3" githubLink ="https://github.com/Sarthakyadav98/mini-games" liveDemoLink ="https://mini-games-sarthak.netlify.app/"/>
         
       </div>
     </div>
