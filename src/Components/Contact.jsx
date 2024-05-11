@@ -12,7 +12,7 @@ function Contact(){
             alt="Email icon"
             class="icon contact-icon email-icon"
           />
-          <p><a href="mailto:s9808927657@gmail.com">s9808927657@gmail.com</a></p>
+          <p><a href="mailto:sarthak.enigma@gmail.com">sarthak.enigma@gmail.com</a></p>
         </div>
         <div class="contact-info-container">
           <img
